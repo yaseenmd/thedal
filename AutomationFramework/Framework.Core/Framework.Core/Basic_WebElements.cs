@@ -18,10 +18,7 @@ namespace Framework.Core
         {
             var driver = new FirefoxDriver();
             driver.Navigate().GoToUrl(url);
-            //test
-            //Test
-            //fuck
-            //suresh
+            
         }
     }
 }

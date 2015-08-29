@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Core.Framework
 {
-    public class Class1
+    public class Basic_html_elements
     {
     }
 }
